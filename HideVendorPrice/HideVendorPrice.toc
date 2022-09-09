@@ -1,0 +1,2 @@
+## Interface: 30200
+HideVendorPrice.lua
